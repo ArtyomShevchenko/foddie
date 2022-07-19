@@ -68,12 +68,12 @@ self.__precacheManifest = [
     "url": "/foodie/static/media/Lato-Black.f80bda6a.woff"
   },
   {
-    "revision": "cecc32d267ee07ce3413637314b66ca0",
-    "url": "/foodie/static/media/Lato-Medium.cecc32d2.eot"
-  },
-  {
     "revision": "0996d39c4cf5d223a14559dfa37047fd",
     "url": "/foodie/static/media/Lato-Medium.0996d39c.woff2"
+  },
+  {
+    "revision": "cecc32d267ee07ce3413637314b66ca0",
+    "url": "/foodie/static/media/Lato-Medium.cecc32d2.eot"
   },
   {
     "revision": "acbd6ecc97c80340e9bf00ea80063234",
@@ -92,24 +92,24 @@ self.__precacheManifest = [
     "url": "/foodie/static/media/Lato-Regular.27bd77b9.woff"
   },
   {
-    "revision": "8bb939ef88123e279c292794c0b23768",
-    "url": "/foodie/static/media/Lato-Semibold.8bb939ef.eot"
-  },
-  {
     "revision": "8b4f872c5de19974857328d06d3fe48f",
     "url": "/foodie/static/media/Lato-Semibold.8b4f872c.woff2"
+  },
+  {
+    "revision": "8bb939ef88123e279c292794c0b23768",
+    "url": "/foodie/static/media/Lato-Semibold.8bb939ef.eot"
   },
   {
     "revision": "dbdcded2ba28c2f2a59d13f7f6e8ec99",
     "url": "/foodie/static/media/GrandHotel-Regular.dbdcded2.eot"
   },
   {
-    "revision": "c2b50f4a7d908c8d06f5b05ec135e166",
-    "url": "/foodie/static/media/Lato-Semibold.c2b50f4a.woff"
-  },
-  {
     "revision": "5e2ebfdf161abc708b3b56418c5c8aef",
     "url": "/foodie/static/media/GrandHotel-Regular.5e2ebfdf.woff"
+  },
+  {
+    "revision": "c2b50f4a7d908c8d06f5b05ec135e166",
+    "url": "/foodie/static/media/Lato-Semibold.c2b50f4a.woff"
   },
   {
     "revision": "4c534f3e376249c52bcab0f94333a264",
